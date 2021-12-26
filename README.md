@@ -1,1 +1,1 @@
-# ReactNative_Learn
+# ReactNative_Learn (expo-cli)
